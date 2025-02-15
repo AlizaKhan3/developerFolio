@@ -241,7 +241,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Certifications I'm currently enrolled in",
 
   achievementsCards: [
     {
@@ -250,10 +250,10 @@ const achievementSection = {
       image: require("./assets/images/jawanPakistanLogo.jpeg"),
       imageAlt: "Certificate",
       footerLink: [
-        {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        }
+        // {
+        //   name: "Certification",
+        //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+        // }
       ]
     },
     {
